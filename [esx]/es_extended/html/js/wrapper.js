@@ -33,7 +33,7 @@
 			if (i == str.length - 1)
 				data.end = true;
 
-			$.post('http://' + namespace + '/__chunk', JSON.stringify(data));
+			$.post('https://' + namespace + '/__chunk', JSON.stringify(data));
 
 		}
 

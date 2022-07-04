@@ -1,7 +1,12 @@
-fx_version 'adamant'
-game 'gta5'
-author 'ESX-Framework'
-description 'ESX TextUI'
+--#### FX Information ####--
+fx_version   'cerulean'
+lua54        'yes'
+game         'gta5'
+
+--#### Resource Information ####--
+name         'esx_textui'
+version      '1.7.5'
+description  'ESX TextUI'
 
 client_scripts { 'TextUI.lua' }
 shared_script '@es_extended/imports.lua'

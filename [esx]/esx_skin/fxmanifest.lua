@@ -1,10 +1,12 @@
-fx_version 'adamant'
+--#### FX Information ####--
+fx_version   'cerulean'
+lua54        'yes'
+game         'gta5'
 
-game 'gta5'
-
-description 'ESX Skin'
-
-version '1.7.5'
+--#### Resource Information ####--
+name         'esx_skin'
+version      '1.7.5'
+description  'ESX Skin'
 
 shared_script '@es_extended/imports.lua'
 

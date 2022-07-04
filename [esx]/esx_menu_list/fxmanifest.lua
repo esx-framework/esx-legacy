@@ -1,10 +1,12 @@
-fx_version 'adamant'
+--#### FX Information ####--
+fx_version   'cerulean'
+lua54        'yes'
+game         'gta5'
 
-game 'gta5'
-
-description 'ESX Menu List'
-
-version '1.7.5'
+--#### Resource Information ####--
+name         'esx_menu_list'
+version      '1.7.5'
+description  'ESX Menu List'
 
 client_scripts {
 	'@es_extended/imports.lua',
