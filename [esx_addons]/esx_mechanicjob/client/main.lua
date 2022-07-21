@@ -963,7 +963,7 @@ end, false)
 
 
 
-RegisterCommand('startmechanicjob', function()
+RegisterCommand('mechanicjob', function()
 	local playerPed = PlayerPedId()
 		if ESX.PlayerData.job and ESX.PlayerData.job.name == 'mechanic' then
 			if NPCOnJob then

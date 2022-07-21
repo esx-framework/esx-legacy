@@ -46,6 +46,7 @@ Locales['en'] = {
   ['cant_attach_own_tt']        = 'you can\'t attach own tow truck',
   ['no_veh_att']                = 'there is no vehicle to be attached',
   ['not_right_veh']             = 'this is not the right vehicle',
+  ['not_right_place']           = 'this is not the right place',
   ['veh_det_succ']              = 'vehicle successfully dettached!',
   ['imp_flatbed']               = 'Action impossible! You need a Flatbed to load a vehicle',
   ['objects']                   = 'objects',
